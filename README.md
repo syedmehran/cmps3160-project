@@ -13,3 +13,17 @@ https://money.usnews.com/investing/stocks/airlines
 X
 Y 
 Z
+
+
+# Tickers & Companys:
+
+LUV - Southwest
+SAVE - Spirit 
+HA - Hawaiian Airlines
+ALGT - Allegiant
+UAL - United Airlines
+DAL - Delta Airlines
+JBLU - JetBlue
+ALK - Alaska Airlines
+AAL - American Airlines
+XAL - Airline Index
