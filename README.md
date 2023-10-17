@@ -19,7 +19,8 @@ Since the aim of this project is to predict the stock prices based on airline pe
 
 To measure airline performance in this project flight data from the Marketing Carrier On-Time Performance table. The flight data contains flight characteristics including date, market carrier, operating carrier, tail number, origin and destination, scheduled departure time, actual departure time, scheduled arrival time, actual arrival time, canceled and diverted flights as well as other key features of the flight. The flight data does not specifically include airline performance metrics. One of the questions that the project aims to answer is if an airline’s flight data can be used to create a metric that can quantify the performance of an airline and can these metrics be used to compare different airlines and be able to predict the stock price. During the ETL process daily number of flights, daily number of cancellations, and proportion of flights that are operated by the market carrier have been calculated using the flight data and plotted.
 
-****Data Set Websites:****
+
+**Data Set Websites:**
 
 [Marketing Carrier On-Time Performance Data](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGK)
 
